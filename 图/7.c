@@ -331,7 +331,7 @@ void main()
 	CritPath_Adj(g1);
 
 	printf("\n");
-	funp("网安B203朱晋宏的AOV图关键路径邻接矩阵邻接表的程序实现");
+	funp("AOV图关键路径邻接矩阵邻接表的程序实现");
 }
 
 

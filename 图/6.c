@@ -331,7 +331,7 @@ void main()
 	create_Adj(&g1);
 	Floyd_Adj(g1);
 	printf("\n");
-	funp("网安B203的佛洛依德拉算法基于邻接矩阵邻接表的程序实现");
+	funp("佛洛依德拉算法基于邻接矩阵邻接表的程序实现");
 }
 
 

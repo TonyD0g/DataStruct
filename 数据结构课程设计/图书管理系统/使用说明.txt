@@ -1,0 +1,6 @@
+管理员，读者登录账号和密码：100 100
+BookInformation.txt :	图书数据库
+code.txt:			管理员密钥
+UserAccount.txt		读者账户
+AdminAccount.txt		管理员账户
+用户名.txt			用户数据库
