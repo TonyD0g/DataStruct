@@ -212,6 +212,6 @@ int main(void)
 
     createHuffmanTree(&HT, w, n);
     creatHuffmanCode(&HT,&HC,n);
-	fun("Íø°²B203Öì½úºêµÄË³Ğò´æ´¢¹ş·òÂüÊ÷\n");
+	fun("Ë³Ğò´æ´¢¹ş·òÂüÊ÷\n");
     return 0;
 }

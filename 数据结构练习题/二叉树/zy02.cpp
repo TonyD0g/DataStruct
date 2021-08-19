@@ -149,6 +149,6 @@ int main(){
     HuffmanCoding(pRoot,0);
 
     fprintf(stdout,"\n");
-    fun("Íø°²B203Öì½úºê£¬Á´Ê½´æ´¢¹ş·òÂü¶ş²æÊ÷\n");
+    fun("Á´Ê½´æ´¢¹ş·òÂü¶ş²æÊ÷\n");
     return 0;
 }
